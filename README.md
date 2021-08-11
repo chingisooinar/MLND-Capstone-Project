@@ -5,7 +5,7 @@
 The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. 
 * Currently, I am waiting for an approvement, hence this repository is going to be updated as soon as it gets approvement.
 
-You can find the [capstone proposal rubric here,](https://review.udacity.com/#!/rubrics/410/view) and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view). Please ensure that you are following directions correctly when submitting these two stages which encapsulate your capstone.
+You can find the [capstone proposal rubric here,](https://review.udacity.com/#!/rubrics/410/view) and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view).
 
 # Dataset
 
