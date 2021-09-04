@@ -15,5 +15,8 @@ Each image is 1,200 pixels wide and 600 pixels tall.
 
 The dataset can be downloaded [here](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/maps.tar.gz).
 
+# Results
+![alt text](https://drive.google.com/file/d/1GJ1xhgBuwrpPTDgYjyhcTdLmSzkQ9mWh/view?usp=sharing)
+
 # Full work
 You can find jupyter notebooks and trained models [here](https://drive.google.com/drive/folders/1TnTvenQOsuDWk7zlCmppG3zHVON_Z-A1?usp=sharing).
